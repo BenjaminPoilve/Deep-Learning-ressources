@@ -1,6 +1,12 @@
 # Deep-Learning-ressources
 
-https://github.com/imatge-upc/detection-2016-nipsws
+
+
+#Cool to start:
+* Andrew NG 
+* http://neuralnetworksanddeeplearning.com/
+* Nando de freitas course: https://www.youtube.com/watch?v=PlhFWT7vAEw
+
 
 ##Time series
 
@@ -78,3 +84,24 @@ https://github.com/imatge-upc/detection-2016-nipsws
 *  http://lstm.seas.harvard.edu/latex/
 *  https://github.com/da03/Attention-OCR
 *  https://github.com/harvardnlp/seq2seq-attn
+*  https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap
+*  https://github.com/dennybritz/deeplearning-papernotes
+* https://github.com/HFTrader/awesome-free-deep-learning-papers
+* https://github.com/openai/universe
+* https://matterhorn.dce.harvard.edu/engage/ui/index.html#/2016/01/14328
+* http://distill.pub/
+* http://neuralnetworksanddeeplearning.com/
+* http://www.deeplearningbook.org/
+* https://drive.google.com/file/d/0BxKBnD5y2M8NREZod0tVdW5FLTQ/view
+* https://tryolabs.com/blog/2016/12/06/major-advancements-deep-learning-2016/
+* http://www.eecs.qmul.ac.uk/~tmh/
+* http://mtyka.github.io/code/2015/10/02/experiments-with-style-transfer.html
+* https://handong1587.github.io/deep_learning/2015/10/09/fun-with-deep-learning.html
+* https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/
+* https://github.com/aqibsaeed/Multilabel-timeseries-classification-with-LSTM
+* http://dmitryulyanov.github.io/audio-texture-synthesis-and-style-transfer/
+* http://www.deeplearningweekly.com/blog/deep-learning-2016-the-year-in-review
+* https://github.com/imatge-upc/detection-2016-nipsws
+* http://karpathy.github.io/neuralnets/
+* http://cs231n.stanford.edu/syllabus.html
+* http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
