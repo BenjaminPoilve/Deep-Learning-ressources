@@ -2,24 +2,24 @@
 
 
 
-#Cool to start:
+## Cool to start:
 * Andrew NG 
 * http://neuralnetworksanddeeplearning.com/
 * Nando de freitas course: https://www.youtube.com/watch?v=PlhFWT7vAEw
 
 
-##Time series
+## Time series
 
 * Using [LSTM](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
 * Using [Vector LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
 
 
-##Autoencoders
+## Autoencoders
 
-###Basics
+### Basics
 * [Get started](https://blog.keras.io/building-autoencoders-in-keras.html)
 
-###Usages
+### Usages
 
 * [Autoencoder network for learning a continuous representation of molecular structures.](https://github.com/maxhodak/keras-molecules)
 * https://medium.com/@Terrybroad/autoencoding-blade-runner-88941213abbe#.ng6333wy2
@@ -35,23 +35,23 @@
 * https://github.com/phillipi/pix2pix
 
 
-##Reinforcement learning
+## Reinforcement learning
 
-###Basics
+### Basics
 * [Understand](https://www.nervanasys.com/demystifying-deep-reinforcement-learning/)
 
-###Usages
+### Usages
 * [Catch](http://edersantana.github.io/articles/keras_rl/)
 * [Torcs Game](https://yanpanlau.github.io/2016/10/11/Torcs-Keras.html)
 * [Snake Game](https://github.com/bitwise-ben/Snake)
 
-##Tools
+## Tools
 
 * [Dashboard](https://github.com/jakebian/hera)
 * [Qlearning](https://github.com/farizrahman4u/qlearning4k)
 * [DeepRL](https://github.com/matthiasplappert/keras-rl)
 
-##To Classify
+## To Classify
 
 * http://iamaaditya.github.io/2016/04/visual_question_answering_demo_notebook
 * https://github.com/imatge-upc/detection-2016-nipsws
