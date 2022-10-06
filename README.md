@@ -105,3 +105,4 @@
 * http://karpathy.github.io/neuralnets/
 * http://cs231n.stanford.edu/syllabus.html
 * http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
+* https://www.interviewbit.com/deep-learning-interview-questions/
